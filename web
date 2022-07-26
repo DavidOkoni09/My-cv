@@ -1,0 +1,92 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>David's Cv</title>
+    <style>
+      img {
+        width: 140px;
+        height: 130px;
+        border-radius: 1000px;
+        object-fit: cover;
+        margin-left: 300px;
+      }
+      h1 {
+        margin-left: 250px;
+        margin-top: 10px;
+        line-height: 1px;
+      }
+      .a {
+        line-height: 1px;
+      }
+      .c {
+        line-height: 1px;
+      }
+      .d {
+        line-height: 1px;
+      }
+      .e {
+        line-height: 1px;
+      }
+      .f {
+        line-height: 1px;
+      }
+      .g {
+        line-height: 1px;
+      }
+      .h {
+        line-height: 1px;
+      }
+      .i {
+        line-height: 1px;
+      }
+      .za {
+        margin-left: 248px;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="images/2.jpg" alt="" />
+    <h1>Owokoni David</h1>
+    <p class="za">Email: vee2004.david@gmail.com</p>
+    <h2>Objective</h2>
+    <p class="a">
+      To have an efficient and effective working relationship with my colleagues
+      and boss alike.
+    </p>
+    <p class="b">
+      To be productive in my job and do my very best to support the office, and
+      to move up the ladder of promotion.
+    </p>
+    <h2>Personal Data</h2>
+    <p class="c">Name: Agrinya Owokoni David</p>
+    <p class="d">Date of Birth: 20th November 2004</p>
+    <p class="e">Nationality:Nigerian</p>
+    <p class="f">State of Origin: Cross River State</p>
+    <p class="g">Local Government Area: Yala</p>
+    <p class="h">Religion: Christianity</p>
+
+    <h2>Education</h2>
+    <p class="i">
+      St. Bernard Nursery and Primary School, Calabar. ------ F.S.L.C
+    </p>
+    <p class="j">
+      Federal Airport Authority of Nigeria Secondary School, Calabar.------
+      S.S.C.E
+    </p>
+
+    <h2>Experience</h2>
+    <p class="k">Smartcity Project.-------- 2022 till date</p>
+
+    <h2>Hobbies</h2>
+    <p class="k">
+      Basketball, listening to music, reading novels, watching movies.
+    </p>
+
+    <a href="comtact me.html">Contact me</a>
+  </body>
+</html>
